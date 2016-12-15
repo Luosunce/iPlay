@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <group android:checkableBehavior="single">
+       <item
+           android:id="@+id/nav_local"
+           android:icon="@mipmap/ic_headset"
+           android:title="@string/nav_local"
+           android:checked="true"/>
+       <item
+           android:id="@+id/nav_Online"
+           android:icon="@mipmap/ic_swap_horiz_"
+           android:title="@string/nav_online"/>
+       <item
+           android:id="@+id/nav_down"
+           android:icon="@mipmap/ic_download"
+           android:title="@string/nav_down"/>
+       <item
+           android:id="@+id/nav_favorite"
+           android:icon="@mipmap/ic_favorite"
+           android:title="@string/nav_favorite"/>
+
+   </group>
+</menu>
