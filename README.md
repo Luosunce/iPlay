@@ -7,4 +7,4 @@ iPlay是一款提供给初学者学习的简易音乐播放器，由本地播放
 <img src="https://github.com/Luosunce/iPlay/blob/master/screenshots/Firstpage.png" width="280px">
 <img src="https://github.com/Luosunce/iPlay/blob/master/screenshots/Local.png" width="280px">
 <img src="https://github.com/Luosunce/iPlay/blob/master/screenshots/Online.png" width="280px">
-![image](https://github.com/Luosunce/iPlay/blob/master/screenshots/Online.png)
+
